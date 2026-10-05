@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+/results/
+/*-validation/
+/last-validation.json
+/*.png
+/*.mp4
+*.log
+/tools/
+/vendor/
+/gpu-tester.desktop
+*.zip
+*.tar.*
+*.run
